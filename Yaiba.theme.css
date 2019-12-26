@@ -1,0 +1,17 @@
+@import url(https://enhanceddiscord.com/theme.css);
+
+:root {
+    --bg: url("https://i.imgur.com/Vlc8OH0.gif"); /* replace the link in url() with your own direct image link to change the background */
+	--bg-overlay: rgba(0, 0, 0, 0.9);
+	--accent-color: #C70039;
+	--mention-color: #C94761;
+	--mention-bgh: rgba(0, 116, 232);
+	--link-color: #C70039;
+	--link-color-hover: #0074E8;
+	--tag-color: #C70039;
+	--tag-bg: rgba(0, 121, 242, 0.10);
+	--popup-background: #661721;
+    --popup-highlight: #661721; 
+	--context-menu-bg: #000000;
+	--unread-color: #C94761;
+}
